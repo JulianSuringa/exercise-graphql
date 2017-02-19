@@ -10,8 +10,9 @@
   "author": "julian",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.16.1",
     "express": "^4.14.1",
-    "express-graphql": "^0.6.3"
+    "express-graphql": "^0.6.3",
+    "graphql": "^0.9.1",
+    "graphql-relay": "^0.5.1"
   }
 }
